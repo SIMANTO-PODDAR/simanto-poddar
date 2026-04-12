@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi there, I'm Simanto Poddar 👋</h1>
 <h3 align="center">MERN Stack Developer;</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=450&lines=Hello+World!;Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
@@ -35,19 +34,25 @@ I believe in continuous learning, clean code practices, and creating meaningful 
 
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"
+<!-- <img src="" alt="Express JS" width="45" height="45"
+/> -->
+<img src="https://i.ibb.co.com/8ntDGb9j/Next-Js.png" alt="Next.JS" width="45" height="45"
 />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Js" width="40" height="40"
+/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"
+/>
+<img src="https://i.ibb.co.com/jk0pMTSh/NodeJs.png" alt="Node JS" width="40" height="40"
 />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"
 />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"
 />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40"
 />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"
 />
-<img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="git" width="40" height="40"
+<img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="daisyui" width="40" height="40"
 />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"
 />
@@ -55,7 +60,7 @@ I believe in continuous learning, clean code practices, and creating meaningful 
 />
 <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-56.svg" alt="photoshop" width="40" height="40"
 />
-<img src="https://static.canva.com/web/images/d46af4b2947ae4b0a01b5a6f633a7f8a.png" alt="photoshop" width="40" height="40"
+<img src="https://static.canva.com/web/images/d46af4b2947ae4b0a01b5a6f633a7f8a.png" alt="canva" width="40" height="40"
 />
 
 </div>
