@@ -34,9 +34,14 @@ I believe in continuous learning, clean code practices, and creating meaningful 
 
 <div align="left">
 
-<!-- <img src="" alt="Express JS" width="45" height="45"
+<img src="https://i.ibb.co.com/KxQPzsMS/Screenshot-2026-04-15-140031.png"
+alt="All Skills & Tools" width="" height=""
+/>
+<!-- <img src="https://i.ibb.co.com/C5BSDFVq/Mongo-DB.png" alt="Mongo Db" width="40" height="40"
 /> -->
-<img src="https://i.ibb.co.com/8ntDGb9j/Next-Js.png" alt="Next.JS" width="45" height="45"
+<!-- <img src="https://i.ibb.co.com/MyYkLZ87/express-js.png" alt="Express JS" width="42" height="42"
+/> -->
+<!-- <img src="https://i.ibb.co.com/8ntDGb9j/Next-Js.png" alt="Next.JS" width="45" height="45"
 />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Js" width="40" height="40"
 />
@@ -50,18 +55,18 @@ I believe in continuous learning, clean code practices, and creating meaningful 
 />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40"
 />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"
-/>
 <img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="daisyui" width="40" height="40"
 />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"
 />
-<img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"
 />
-<img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-56.svg" alt="photoshop" width="40" height="40"
+<img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" alt="illustrator" width="35" height="35"
 />
-<img src="https://static.canva.com/web/images/d46af4b2947ae4b0a01b5a6f633a7f8a.png" alt="canva" width="40" height="40"
+<img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-56.svg" alt="photoshop" width="35" height="35"
 />
+<img src="https://static.canva.com/web/images/d46af4b2947ae4b0a01b5a6f633a7f8a.png" alt="canva" width="35" height="35"
+/> -->
 
 </div>
 
