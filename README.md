@@ -13,22 +13,30 @@
 ## 👨‍💻 About Me
 
 <p>
-I’m a passionate <b>MERN Stack Developer</b> at the early stage of my development journey, focused on building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into clean and functional interfaces using <b>React</b> and component-based architecture.
-<br/>I have hands-on experience with tools like <b>Tailwind CSS</b> and <b>DaisyUI</b>, which help me create visually appealing UIs efficiently. I also work with popular React libraries such as <b>React Toastify</b> and <b>Recharts</b> to improve user interaction and data visualization.
-
-Currently, I’m strengthening my frontend skills while gradually exploring advanced technologies like <b>Next.js</b> . I’m highly motivated to learn, experiment, and grow as a developer by building real-world projects and collaborating with others.
+I’m a passionate <b>MERN Stack Developer</b> in the early stage of my development journey, focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into clean and functional interfaces using <b>React</b> and component-based architecture.
+<br/>
+I have hands-on experience with tools like <b>Tailwind CSS</b>, <b>DaisyUI</b>, and <b>Hero UI</b>, which help me create visually appealing and modern UIs efficiently. I also use animation libraries like <b>Animate.css</b> and useful React tools such as <b>React Toastify</b> and <b>React Fast Marquee</b> to enhance user experience.
+<br/>
+  
+Currently, I’ve built a modern eCommerce project called <b>SunCart – Summer Essentials Store</b>, where I implemented authentication, protected routes, product browsing, and profile management using <b>Next.js</b> and <b>BetterAuth</b>. This project helps me strengthen real-world development skills like authentication flow, dynamic routing, and UI/UX design.
+<br/>
+I’m highly motivated to learn, experiment, and grow as a developer by building practical projects and collaborating with others.
+<br/>
 I believe in continuous learning, clean code practices, and creating meaningful user experiences through development.
 </p>
 
 ## 🚀 Current Activities
 
-* 🌱 Currently diving deeper into **Next.js** to level up my React ecosystem knowledge
+* ⚡ Currently exploring **Node.js** and **Express.js** to strengthen backend development skills
+* 🌱 Diving deeper into **Next.js** to level up my React ecosystem knowledge
+* 🔐 Learning **Better Auth** to improve authentication workflow in modern web apps
 * ⚛️ Actively building projects with **React**, focusing on clean UI and component-based architecture
 * 🎨 Comfortable with **Tailwind CSS** and **DaisyUI** for modern, responsive design
-* 📊 Exploring useful **React libraries** like React Toastify and Recharts to enhance user experience
-* 💻 Working on a modern tourism website to strengthen real-world development skills
-* ⚡ Continuously learning and experimenting with new web technologies and UI/UX trends
-* 🤝 Open to collaborating on MERN stack and open-source projects
+* ✨ Exploring **Hero UI** and animation libraries like **Animate.css**, **React Fast Marquee** for more polished interfaces
+* 📊 Exploring useful **React libraries** like **React Toastify** and **Recharts** to enhance user experience
+* 💻 Building SunCart – a modern **eCommerce** web app to strengthen real-world development skills
+* 🚀 Continuously learning and experimenting with new web technologies and UI/UX trends
+* 🤝 Open to collaborating on **MERN stack** and **open-source** projects
 
 ## 🛠️ Skills & Tools
 
