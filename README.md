@@ -2,8 +2,22 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Banner">
 </p>
 
+<!-- ### 🔥 GitHub Stats -->
+
+<table align="center">
+  <tr>
+    <!-- <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMANTO-PODDAR&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+    </td> -->
+   <td align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMANTO-PODDAR&border_radius=0&card_width=800" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>  
+
 <h1 align="center">Hi there, I'm Simanto Poddar 👋</h1>
 <h3 align="center">MERN Stack Developer;</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=450&lines=Hello+World!;Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
