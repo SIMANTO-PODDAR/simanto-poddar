@@ -4,7 +4,7 @@
 
 <!-- ### 🔥 GitHub Stats -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SIMANTO-PODDAR&border_radius=0&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SIMANTO-PODDAR&border_radius=0&card_width=900)](https://git.io/streak-stats)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SIMANTO-PODDAR&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIMANTO-PODDAR&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
