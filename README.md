@@ -4,16 +4,10 @@
 
 <!-- ### 🔥 GitHub Stats -->
 
-<table align="center">
-  <tr>
-    <!-- <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMANTO-PODDAR&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-    </td> -->
-   <td align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMANTO-PODDAR&border_radius=0&card_width=800" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SIMANTO-PODDAR&border_radius=0&card_width=800)](https://git.io/streak-stats)
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=SIMANTO-PODDAR&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIMANTO-PODDAR&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <h1 align="center">Hi there, I'm Simanto Poddar 👋</h1>
 <h3 align="center">MERN Stack Developer;</h3>
