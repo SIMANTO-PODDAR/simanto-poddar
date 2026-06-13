@@ -74,6 +74,8 @@ alt="All Skills & Tools"
 />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"
 />
+<img src="https://i.ibb.co.com/60PhxR1L/stripe.png" alt="stripe" width="38" height="38"
+/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"
 />
 <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" alt="illustrator" width="35" height="35"
