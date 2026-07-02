@@ -51,20 +51,28 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 <div align="left">
 <img src="https://i.ibb.co.com/vCpgXbh8/html5.jpg"       alt="html5" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/yFN6gpB2/css3.jpg"        alt="css3" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/nNJG9Y1Q/javascript.jpg"  alt="Javascript" width="35" height="35"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/xqBJCDmX/react.jpg"       alt="React.Js" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/8ntDGb9j/Next-Js.png"     alt="Next.JS" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/39KN5hYc/tailwindcss.jpg" alt="tailwind css" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="daisyUi" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/QFNqCFSX/hero-Ui.png" alt="heroUi" width="60" height="25"
 />
+<img width="0.5"/>
 </div>
 
 #### Backend &  Authentication
@@ -72,16 +80,22 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 <div align="left">
 <img src="https://i.ibb.co.com/C5BSDFVq/Mongo-DB.png"    alt="MongoDb" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/MyYkLZ87/express-js.png"  alt="Express.JS" width="42" height="42"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/jk0pMTSh/NodeJs.png"      alt="Node.JS" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/mrsWLkBP/json-web-token.jpg"  alt="json-web-token" width="50" height="30"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/C3jRTMjX/RBAC.png"   alt="role-based-access-control" width="50" height="30"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/vCT20FSF/better-auth.png"      alt="Better-auth" width="110" height="23"
 />
+<img width="0.5"/>
 </div>
 
 #### Development Tools & React Libraries
@@ -89,14 +103,19 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 <div align="left">
 <img src="https://i.ibb.co.com/M5MTPmp7/git.jpg"         alt="git" width="38" height="38"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/vCzkHbzf/github.png"      alt="github" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/xSDkVB9g/figma.jpg"       alt="figma" width="35" height="35"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/yn8fvB21/recharts.png"    alt="recharts" width="75" height="30"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/ynBcHbGW/react-icons.png"   alt="react-icons" width="80" height="30"
 />
+<img width="0.5"/>
 </div>
 
 #### Integrations & Deployment
@@ -104,24 +123,18 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 <div align="left">
 <img src="https://i.ibb.co.com/60PhxR1L/stripe.png"      alt="stripe" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/d08zJ5wk/imgbb.png"       alt="ImgBb" width="36" height="36"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/mF1wc5B2/railway.png"     alt="railway" width="40" height="40"
 />
+<img width="0.5"/>
 <img src="https://i.ibb.co.com/r2cwwd8t/vercel.png"      alt="vercel" width="65" height="25"
 />
+<img width="0.5"/>
 </div>
 
-<!-- Additional skills (hidden for readability) -->
-<!-- #### Design Tools
-<div align="left">
-<img src="https://i.ibb.co.com/qL1XGxG3/illustrator.jpg" alt="illustrator" width="35" height="35"
-/>
-<img src="https://i.ibb.co.com/Z6Bm3ddv/photoshop.jpg"   alt="photoshop" width="35" height="35"
-/>
-<img src="https://i.ibb.co.com/ZQ0jqJV/canva.png"        alt="canva" width="35" height="35"
-/>
-</div> -->
 ## Connect with Me
 
 <p align="left">
