@@ -45,95 +45,68 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 * Open to collaborating on **MERN Stack** and **open-source** projects
 
 ## Skills & Tools
-<!-- <img src="" alt="All Skills & Tools"/> -->
+
 #### Frontend
 
 <div align="left">
-<img src="https://i.ibb.co.com/vCpgXbh8/html5.jpg"       alt="html5" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/yFN6gpB2/css3.jpg"        alt="css3" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/nNJG9Y1Q/javascript.jpg"  alt="Javascript" width="35" height="35"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/xqBJCDmX/react.jpg"       alt="React.Js" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/8ntDGb9j/Next-Js.png"     alt="Next.JS" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/39KN5hYc/tailwindcss.jpg" alt="tailwind css" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="daisyUi" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/QFNqCFSX/hero-Ui.png" alt="heroUi" width="60" height="25"
-/>
-<img width="0.5"/>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
+[![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white)](https://www.heroui.com/)
+
 </div>
 
-#### Backend &  Authentication
+#### Backend & Authentication
 
 <div align="left">
-<img src="https://i.ibb.co.com/C5BSDFVq/Mongo-DB.png"    alt="MongoDb" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/MyYkLZ87/express-js.png"  alt="Express.JS" width="42" height="42"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/jk0pMTSh/NodeJs.png"      alt="Node.JS" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/mrsWLkBP/json-web-token.jpg"  alt="json-web-token" width="50" height="30"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/C3jRTMjX/RBAC.png"   alt="role-based-access-control" width="50" height="30"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/vCT20FSF/better-auth.png"      alt="Better-auth" width="110" height="23"
-/>
-<img width="0.5"/>
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![RBAC](https://img.shields.io/badge/RBAC-Role--Based_Access_Control-6366F1?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![Better Auth](https://img.shields.io/badge/Better--Auth-7C3AED?style=for-the-badge&logoColor=white)](https://better-auth.com/)
+
 </div>
 
 #### Development Tools & React Libraries
 
 <div align="left">
-<img src="https://i.ibb.co.com/M5MTPmp7/git.jpg"         alt="git" width="38" height="38"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/vCzkHbzf/github.png"      alt="github" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/xSDkVB9g/figma.jpg"       alt="figma" width="35" height="35"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/yn8fvB21/recharts.png"    alt="recharts" width="75" height="30"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/ynBcHbGW/react-icons.png"   alt="react-icons" width="80" height="30"
-/>
-<img width="0.5"/>
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+[![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://recharts.org/)
+[![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=for-the-badge&logo=react&logoColor=white)](https://react-icons.github.io/react-icons/)
+
 </div>
 
 #### Integrations & Deployment
 
 <div align="left">
-<img src="https://i.ibb.co.com/60PhxR1L/stripe.png"      alt="stripe" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/d08zJ5wk/imgbb.png"       alt="ImgBb" width="36" height="36"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/mF1wc5B2/railway.png"     alt="railway" width="40" height="40"
-/>
-<img width="0.5"/>
-<img src="https://i.ibb.co.com/r2cwwd8t/vercel.png"      alt="vercel" width="65" height="25"
-/>
-<img width="0.5"/>
+
+[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+[![ImgBB](https://img.shields.io/badge/ImgBB-2196F3?style=for-the-badge&logo=imagekit&logoColor=white)](https://imgbb.com/)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
 </div>
+
+<!-- Additional skills (hidden for readability) -->
+<!-- #### Design Tools
+<div align="left">
+<img src="https://i.ibb.co.com/qL1XGxG3/illustrator.jpg" alt="illustrator" width="35" height="35"
+/>
+<img src="https://i.ibb.co.com/Z6Bm3ddv/photoshop.jpg"   alt="photoshop" width="35" height="35"
+/>
+<img src="https://i.ibb.co.com/ZQ0jqJV/canva.png"        alt="canva" width="35" height="35"
+/>
+</div> -->
 
 ## Connect with Me
 
