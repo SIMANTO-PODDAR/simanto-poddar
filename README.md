@@ -69,7 +69,7 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![RBAC](https://img.shields.io/badge/RBAC-Role--Based_Access_Control-6366F1?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-6366F1?style=for-the-badge&logo=shield&logoColor=white)](https://en.wikipedia.org/wiki/Role-based_access_control)
 [![Better Auth](https://img.shields.io/badge/Better--Auth-7C3AED?style=for-the-badge&logoColor=white)](https://better-auth.com/)
 
 </div>
@@ -92,6 +92,7 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![ImgBB](https://img.shields.io/badge/ImgBB-2196F3?style=for-the-badge&logo=imagekit&logoColor=white)](https://imgbb.com/)
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)](https://nodemailer.com/)
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
