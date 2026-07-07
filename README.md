@@ -68,9 +68,9 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Better Auth](https://img.shields.io/badge/Better%20Auth-7C3AED?style=for-the-badge&logo=betterauth&logoColor=white)](https://better-auth.com/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-6366F1?style=for-the-badge&logo=shield&logoColor=white)](https://en.wikipedia.org/wiki/Role-based_access_control)
-[![Better Auth](https://img.shields.io/badge/Better%20Auth-7C3AED?style=for-the-badge&logo=betterauth&logoColor=white)](https://better-auth.com/)
 
 </div>
 
