@@ -111,14 +111,13 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 
 ## Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/simanto-poddar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:simantopoddar111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=maildotru&logoColor=white" alt="simantopoddar111@gmail.com" />
-</a>
-</p>
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simanto-poddar)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simantopoddar111@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SIMANTO-PODDAR/)
+
+</div>
 
 ---
 
