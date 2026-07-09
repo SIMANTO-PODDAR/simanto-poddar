@@ -1,16 +1,18 @@
-<!-- <p align="center">
+<!-- <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Banner">
-</p> -->
+</div> -->
 
 <!-- GitHub Stats -->
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SIMANTO-PODDAR&border_radius=0&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SIMANTO-PODDAR&border_radius=0&card_width=900)](#connect-with-me)
+</div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SIMANTO-PODDAR&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SIMANTO-PODDAR&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <h1 align="center">Hi there, I'm Simanto Poddar 👋</h1>
-<h3 align="center">MERN Stack Developer;</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=450&lines=Hello+World!;Welcome+to+my+GitHub" alt="Typing SVG" />
@@ -20,29 +22,25 @@
 
 ## About Me
 
-<p>
-I’m a passionate <b>MERN Stack Developer</b> focused on building modern, responsive, and user-friendly web applications. I enjoy creating clean and scalable interfaces using <b>Next.js</b>, and component-based architecture while continuously improving my problem-solving and development skills.
-<br/>
+I’m a passionate **Full Stack Developer** focused on building modern, responsive, and user-friendly web applications. I enjoy building clean, scalable applications with **Next.js** and component-based architecture while continuously improving my problem-solving and software development skills.
 
-I have experience working with technologies across the full MERN stack, including <b>MongoDB</b>, <b>Express.js</b>, <b>React.js</b>, and <b>Node.js</b>. I’m especially focused on <b>Next.js</b> for building modern web applications and enjoy crafting polished user interfaces using <b>Tailwind CSS</b>, <b>Hero UI</b>, and <b>DaisyUI</b>.
-<br/>
+I have experience building full-stack applications using **Next.js**, **React.js**, **Node.js**, **Express.js**, and **MongoDB**. I enjoy crafting polished user interfaces using **Tailwind CSS**, **Hero UI**, and **DaisyUI**, while developing secure and scalable backend systems.
 
-Currently, I’m focused on strengthening my full-stack development workflow by building practical MERN applications, improving backend logic, authentication systems, API integration, and overall application architecture.
-<br/>
-I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motion animations, and continuously practicing clean code principles to grow as a developer.
-</p>
+Currently, I’m focused on strengthening my development workflow by building practical full-stack applications, improving backend logic, authentication systems, API integration, database design, and overall application architecture.
+
+I enjoy exploring new technologies, experimenting with modern UI/UX ideas and motion animations, and continuously practicing clean code principles to grow as a Full Stack Developer.
 
 ## Current Activities
 
-* Currently building full-stack **MERN** applications to strengthen real-world development skills
+* Currently building practical **Full Stack** applications to strengthen real-world development skills
 * Practicing and improving backend development with **Node.js** and **Express.js**
-* Exploring and practicing **JWT Authentication** and secure authentication workflows
-* Working with REST APIs, database operations, and full-stack project architecture
-* Building modern applications with **React.js** and **Next.js**
+* Exploring and implementing secure authentication systems using **JWT Authentication** and **Role-Based Access Control (RBAC)**
+* Working with **REST APIs**, database operations, and scalable application architecture
+* Building modern web applications with **React.js** and **Next.js**
 * Practicing responsive and clean UI design using **Tailwind CSS**, **DaisyUI**, and **Hero UI**
 * Exploring motion animations and modern UI/UX interaction techniques
-* Continuously revisiting and improving previously learned technologies through practical projects
-* Open to collaborating on **MERN Stack** and **open-source** projects
+* Continuously improving problem-solving skills through **LeetCode** and practical projects
+* Open to collaborating on **Full Stack** and **open-source** projects
 
 ## Skills & Tools
 
@@ -71,7 +69,6 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 [![Better Auth](https://img.shields.io/badge/Better%20Auth-7C3AED?style=for-the-badge&logo=betterauth&logoColor=white)](https://better-auth.com/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![RBAC](https://img.shields.io/badge/Role--Based_Access_Control-6366F1?style=for-the-badge&logo=shield&logoColor=white)](https://en.wikipedia.org/wiki/Role-based_access_control)
-
 </div>
 
 #### Development Tools & React Libraries
@@ -98,7 +95,7 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 
 </div>
 
-<!-- Additional skills (hidden for readability) -->
+<!-- Additional skills -->
 <!-- #### Design Tools
 <div align="left">
 <img src="https://i.ibb.co.com/qL1XGxG3/illustrator.jpg" alt="illustrator" width="35" height="35"
@@ -115,6 +112,7 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas, motio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simanto-poddar)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simantopoddar111@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/8801873475344-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801873475344)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SIMANTO-PODDAR/)
 
 </div>
