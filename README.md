@@ -111,7 +111,7 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas and mo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simanto-poddar)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simantopoddar111@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/8801873475344-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801873475344)
+[![WhatsApp](https://img.shields.io/badge/+8801873475344-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801873475344)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SIMANTO-PODDAR/)
 
 </div>
