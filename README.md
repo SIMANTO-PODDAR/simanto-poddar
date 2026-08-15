@@ -28,15 +28,11 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas and mo
 
 ## Current Activities
 
-* Currently building practical **Full Stack** applications to strengthen real-world development skills
-* Practicing and improving backend development with **Node.js** and **Express.js**
-* Exploring and implementing secure authentication systems using **JWT Authentication** and **Role-Based Access Control (RBAC)**
-* Working with **REST APIs**, database operations, and scalable application architecture
-* Building modern web applications with **React.js** and **Next.js**
-* Practicing responsive and clean UI design using **Tailwind CSS**, **DaisyUI**, and **Hero UI**
-* Exploring motion animations and modern UI/UX interaction techniques
-* Continuously improving problem-solving skills through **LeetCode** and practical projects
-* Open to collaborating on **Full Stack** and **open-source** projects
+* Mastering Core Technologies: Deepening my expertise in **Next.js** and **React**, while refining backend logic and scalable architecture using **Node.js**, **Express.js** and **MongoDB**.
+* Exploring New Tools & Workflows: Continuously expanding my tech stack and learning modern agile project management tools like **Jira**.
+* Building Scalable Applications: Developing real-world full-stack projects by implementing secure authentication systems using **Firebase**, **Better Auth**, and **JWT** for robust **RBAC**, alongside optimal database design.
+* AI Integration & Productivity: Integrating AI features (such as **Google AI**) into projects to create smarter user experiences, while utilizing AI power to boost development speed and overall productivity.
+* Open to Collaboration : Always eager to join team projects and open to new professional opportunities to contribute, learn, and gain valuable real-world experience.
 
 ## Skills & Tools
 
@@ -75,6 +71,7 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas and mo
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
 [![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://recharts.org/)
 [![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=for-the-badge&logo=react&logoColor=white)](https://react-icons.github.io/react-icons/)
