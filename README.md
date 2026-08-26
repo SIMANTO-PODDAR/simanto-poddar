@@ -56,7 +56,7 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas and mo
 
 <div align="left">
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-green?style=for-the-badge&logo=mongodb)](https://mongoosejs.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Better Auth](https://img.shields.io/badge/Better%20Auth-7C3AED?style=for-the-badge&logo=betterauth&logoColor=white)](https://better-auth.com/)
@@ -109,7 +109,6 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas and mo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simanto-poddar)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simantopoddar111@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+8801873475344-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801873475344)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SIMANTO-PODDAR/)
 
 </div>
 
