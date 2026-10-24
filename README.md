@@ -28,11 +28,11 @@ I enjoy exploring new technologies, experimenting with modern UI/UX ideas and mo
 
 ## Current Activities
 
-* Mastering Core Technologies: Deepening my expertise in **Next.js** and **React**, while refining backend logic and scalable architecture using **Node.js**, **Express.js** and **MongoDB**.
-* Exploring New Tools & Workflows: Continuously expanding my tech stack and learning modern agile project management tools like **Jira**.
-* Building Scalable Applications: Developing real-world full-stack projects by implementing secure authentication systems using **Firebase**, **Better Auth**, and **JWT** for robust **RBAC**, alongside optimal database design.
-* AI Integration & Productivity: Integrating AI features (such as **Google AI**) into projects to create smarter user experiences, while utilizing AI power to boost development speed and overall productivity.
-* Open to Collaboration : Always eager to join team projects and open to new professional opportunities to contribute, learn, and gain valuable real-world experience.
+* **Mastering Core Technologies:** Deepening my expertise in **Next.js** and **React**, while refining backend logic and scalable architecture using **Node.js**, **Express.js** and **MongoDB**.
+* **Expanding Infrastructure & Tooling:** Continuously expanding my tech stack by getting hands-on with containerization (**Docker**) and advanced caching (**Redis**) to improve application deployment and performance.
+* **Building Scalable Applications:** Developing real-world full-stack projects by implementing secure authentication systems using **Firebase**, **Better Auth**, and **JWT** for robust **RBAC**, alongside optimal database design.
+* **AI Integration & Productivity:** Integrating AI features (such as **Google AI**) into projects to create smarter user experiences, while utilizing AI power to boost development speed and overall productivity.
+* **Open to Collaboration:** Always eager to join team projects and open to new professional opportunities to contribute, learn, and gain valuable real-world experience.
 
 ## Skills & Tools
 
